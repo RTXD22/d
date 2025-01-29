@@ -321,7 +321,7 @@ img {
   position: relative;
 }
 
-/* ===== CONTACT =====*/
+/* ===== CONTACT 
 .contact__container {
   row-gap: 2rem;
 }
@@ -358,7 +358,7 @@ img {
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
-}
+} ====*/
 
 /* ===== FOOTER=====*/
 .footer {
@@ -481,13 +481,13 @@ img {
     column-gap: 2rem;
   }
 
-  .contact__container {
+  /*== .contact__container {
     grid-template-columns: repeat(2, 1fr);
     justify-items: center;
   }
   .contact__form {
     width: 380px;
-  }
+  } ==*/
 
   .footer__container {
     grid-template-columns: repeat(3, 1fr);
