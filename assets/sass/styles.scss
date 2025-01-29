@@ -495,6 +495,8 @@ img {
     &__container {
       grid-template-columns: repeat(2, 1fr);
       justify-items: center;
+      text-align: center;
+      position: relative;
     }
     &__form {
       width: 380px;
